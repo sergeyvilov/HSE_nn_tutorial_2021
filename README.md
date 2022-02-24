@@ -1,3 +1,3 @@
 # HSE_NN_tutorial_2021
 
-$`\sqrt{2}`$
+![equation](https://latex.codecogs.com/svg.image?s)
